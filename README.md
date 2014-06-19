@@ -32,10 +32,11 @@ THE DATA ARE:
 
 
 RUN_ANALYSIS.R
-To see the script created in this project you can see the run_analysis.R submitted in this repo. All the steps will be explained on the codebook.md file. 
+To see the script created in this project you can see the run_analysis.R submitted in this repo. All the steps are explained on the Script. 
 To reproduce the code you have to change the directory where you saved the file and run it on Rstudio or R project.
 
 OUTPUTS
 The file created that contains the tidy data is
 tableTidy.txt
+You can si how the data work in the Codebook file
 
